@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+:root{
+	--color-hover-menu:#4caf50;
+	--color-verde:#4caf50;
+	--color-titulos:#303030;
+	--color-subtitulo:#888;
+	--fondo-title:#f8f8f8;
+}
+body{
+	font-family:'Open Sans', sans-serif;
+	font-size: 16px;
+	color: #888;
+}
+header{
+	background-color: #000;
+}
+
+footer{
+	background-color: #000;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
